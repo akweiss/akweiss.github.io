@@ -6,7 +6,14 @@ Here's some of the projects I've done on GitHub.
 
 ![](/images/2DiffLoop.gif)
 
+The above is an animation of linear convection in two dimensions. Mathematically, the governing PDE is:
+$x^2$
+
+This is just one step of a project that involved multiple steps leading up to the Navier-Stokes equations. The link to the full project can be found [here](https://github.com/akweiss/cfd-simulations).
+
 ## RNA Sequencing
+
+
 
 ```markdown
 Syntax highlighted code block
