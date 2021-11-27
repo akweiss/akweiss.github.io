@@ -4,7 +4,7 @@ Here's some of the projects I've done on GitHub.
 
 ## Computational Fluid Dynamics
 
-![](/images/2DiffLoop.gif)
+![](/2DiffLoop.gif)
 
 The above is an animation of linear convection in two dimensions. Mathematically, the governing PDE is:
 $x^2$
