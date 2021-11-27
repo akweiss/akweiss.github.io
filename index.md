@@ -1,6 +1,12 @@
-## Abby Weiss GitHub Page
+# Abby Weiss GitHub Page
 
 Here's some of the projects I've done on GitHub.
+
+## Computational Fluid Dynamics
+
+![](/images/2DiffLoop.gif)
+
+## RNA Sequencing
 
 ```markdown
 Syntax highlighted code block
