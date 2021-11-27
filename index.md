@@ -1,8 +1,8 @@
-# Abby Weiss GitHub Page
+## Abby Weiss GitHub Page
 
 Here's some of the projects I've done on GitHub.
 
-## Computational Fluid Dynamics
+### Computational Fluid Dynamics
 
 ![](/2DiffLoop.gif)
 
@@ -11,7 +11,7 @@ $x^2$
 
 This is just one step of a project that involved multiple steps leading up to the Navier-Stokes equations. The link to the full project can be found [here](https://github.com/akweiss/cfd-simulations).
 
-## RNA Sequencing
+### RNA Sequencing
 
 
 
